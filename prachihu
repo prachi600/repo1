@@ -1,6 +1,6 @@
 print("hello world") 
 a = 55
-b = 44
+b = 45
 sum = a + b
 print(sum)
 f = int(input("enter your number"))
