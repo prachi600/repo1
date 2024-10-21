@@ -3,7 +3,7 @@ a = 55
 b = 45
 sum = a + b
 print(sum)
-f = int(input("enter your number"))
+f = int(input("enter your number="))
 if f/2 == 0:
     print("EVEN")
 else:
